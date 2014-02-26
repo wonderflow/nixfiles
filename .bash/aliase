@@ -1,7 +1,3 @@
-alias rm='rm -i'
-alias cp='cp -i'
-alias mv='mv -i'
-
 alias add='git add'
 alias push='git push'
 alias pull='git pull'
@@ -53,6 +49,6 @@ fi
 
 alias info='info --vi-keys'
 
-alias c='clear'
+alias cls='clear'
 
 alias home='cd ~'
